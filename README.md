@@ -32,6 +32,4 @@
 
 <br clear="both">
 
-https://github.com/AdiB0012/AdiB0012/blob/output/github-contribution-grid-snake.svg
-
 ###
