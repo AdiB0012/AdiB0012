@@ -32,6 +32,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AdiB0012/AdiB0012/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/AdiB0012/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 ###
