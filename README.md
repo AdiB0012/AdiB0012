@@ -28,6 +28,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
 
-###
-
-<br clear="both">
