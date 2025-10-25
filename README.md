@@ -1,4 +1,4 @@
-<h2 align="left"> 👋 Hi! My name is Andrei and I'm a Software Engineer</h2>
+<h2 align="left"> 👋 Hi! My name is Adi and I'm a Software Engineer</h2>
 
 ## About me
 
